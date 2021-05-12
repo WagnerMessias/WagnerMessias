@@ -5,6 +5,10 @@
   <a href="https://www.linkedin.com/in/wagnermessias/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
   <a href="https://medium.com/@wmessiascavalcanti"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
 
+<!--[![Twitter: WagnerMessiasC](https://img.shields.io/twitter/follow/WagnerMessiasC?style=social)](https://twitter.com/WagnerMessiasC)</br>-->
+[![Twitter Follow](https://img.shields.io/twitter/follow/WagnerMessiasC?label=Follow)](https://twitter.com/WagnerMessiasC)</br>
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCAuXLphxnNuxyfJZOgAJagg?style=social)](https://www.youtube.com/channel/UCAuXLphxnNuxyfJZOgAJagg)</br>
+
 <!--
 **WagnerMessias/WagnerMessias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
