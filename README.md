@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<!--# Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1613942497/14160/mario_wave.gif?1613942497" alt="party blob" />-->
+# Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1587484871/8712/github.png?1587484871" alt="party blob" /> 
 <p>
   <a href="https://twitter.com/WagnerMessiasC"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
   <a href="https://www.linkedin.com/in/wagnermessias/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
