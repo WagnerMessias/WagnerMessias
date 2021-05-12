@@ -9,6 +9,13 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/WagnerMessiasC?label=Follow)](https://twitter.com/WagnerMessiasC)</br>
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCAuXLphxnNuxyfJZOgAJagg?style=social)](https://www.youtube.com/channel/UCAuXLphxnNuxyfJZOgAJagg)</br>
 
+<a href="https://github.com/WagnerMessias">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=WagnerMessias&show_icons=true&theme=merko&line_height=27" alt="Wagner Messias's github stats"/>
+</a></br>
+
+<a href="https://github.com/WagnerMessias/action-random">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WagnerMessias&repo=action-random&theme=merko" />
+</a>
 <!--
 **WagnerMessias/WagnerMessias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
